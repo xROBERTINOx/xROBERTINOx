@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Leetcode Stats]([https://leetcard.jacoblin.cool/papi_churro](https://leetcard.jacoblin.cool/papi_churro?theme=radical&font=Fresca&ext=activity))
+![Leetcode Stats](https://leetcard.jacoblin.cool/papi_churro)
 <!--
 **xROBERTINOx/xROBERTINOx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
